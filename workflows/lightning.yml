@@ -1,0 +1,12 @@
+name: Test Lightning Runner
+on: workflow_dispatch
+
+jobs:
+  test:
+    runs-on: [self-hosted, ubuntu, custom, lightning-fast]
+    steps:
+    - name: Test Lightning Runner
+      run: |
+        echo "🎉 Running on Lightning Runner!"
+        echo "Runner: $(hostname)"
+        echo "Tools: Node $(node --version), Python $(python3 --version)"
