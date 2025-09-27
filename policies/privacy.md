@@ -31,6 +31,6 @@
     <p>All workflow data is processed in ephemeral containers that are destroyed after job completion. We do not store source code or secrets.</p>
     
     <h2>Contact</h2>
-    <p>For privacy concerns, contact: privacy@lightningrunner.net</p>
+    <p>For privacy concerns, contact: shredderfeather@gmail.com</p>
 </body>
 </html>
